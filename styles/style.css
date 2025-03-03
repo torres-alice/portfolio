@@ -96,7 +96,6 @@ body{
 
 .imagem {
     width: 50%;
-    transform: scale(0.5);
 }
 .rodape{
     color: var(--cor-primaria);
