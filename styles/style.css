@@ -90,12 +90,14 @@ body{
     background-color: var(--cor-hover);
 }
 .apresentacao__imagem{
-    width: 50%;
+    width: 100%;
+    border-radius: 2%;
 
 }
 
 .imagem {
-    width: 50%;
+    width: 90%;
+    border-radius: 2%;
 }
 .rodape{
     color: var(--cor-primaria);
